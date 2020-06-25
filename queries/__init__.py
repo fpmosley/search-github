@@ -1,0 +1,2 @@
+# __init__.py
+from .repos_languages_dependencies import GitHubRepoLanguagesDependencyGraph
